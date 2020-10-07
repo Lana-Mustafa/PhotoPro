@@ -1,0 +1,54 @@
+body{
+    background-color: #373737;
+}
+#adjust {
+   padding-left: 1400px;
+  
+    
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color:white;
+}
+.bg-light{
+    background-color: #CCCCCC !important;
+}
+.navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .nav-link.active{
+    color:white;   
+}
+img {
+    height:400px;
+    width:60%;
+    margin:50px 0;
+    
+}
+.col-4 h4{
+    background-color: #303030;
+    color:white;
+    padding:15px 10px;
+
+}
+
+.col-4 p{
+    text-align: justify;
+    color:white;
+}
+footer{
+    color:white;
+    text-align: center; 
+    background: linear-gradient(to bottom, #303030 0%, #373737 100%);
+    border: 1px solid #373737;
+    padding: 10px;
+    box-shadow: 5px 500px 500px  #373737;
+    
+   
+   
+
+    margin:40px 0px;
+}
+.navbar-light .navbar-brand {
+    
+    text-shadow: 1px 1px;
+    
+    color: #B7B5B5;
+}
